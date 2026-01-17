@@ -10,6 +10,7 @@ Atualmente, desenvolvo projetos práticos utilizando Python, SQL e ferramentas d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelmat0s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_matos.r)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelmatos55343@gmail.com)
 
 ---
 ### 🤖 Linguagens e Tecnologias
