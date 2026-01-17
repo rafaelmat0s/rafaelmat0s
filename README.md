@@ -63,3 +63,14 @@ Atualmente, desenvolvo projetos práticos utilizando Python, SQL e ferramentas d
 
 <br/>
 <br/>
+
+## 📊 Portfólio de Projetos em Análise de Dados
+
+| Nome do Projeto | Notebook ou Link | Linguagens | Observação |
+|-----------------|------------------|------------|------------|
+| Limpeza e Análise Exploratória de Dados – Instacart | [Sprint 3]([link_do_repo](https://github.com/rafaelmat0s/Limpeza-e-An-lise-Explorat-ria-de-Dados-Instacart)) | Python, Pandas | Limpeza, tratamento de dados ausentes, duplicatas e análise exploratória de pedidos e comportamento de usuários |
+| Análise de Jogos – Mercado Global | [Sprint 6]([link_do_repo](https://github.com/rafaelmat0s/-TripleTen-5-projeto_integrado1)) | Python, Pandas | Análise de vendas globais por plataforma, região e gênero. Identificação de padrões de mercado |
+| Análise de Negócio – Marketing Digital | [Sprint 8]([link_do_repo](https://github.com/rafaelmat0s/TripleTen-8-projeto_Y.Afisha)) | Python | Análise de funil, CAC, LTV e retorno sobre investimento em marketing |
+| Análise de Funil e Teste A/B – App de Alimentos | [Sprint 11]([link_do_repo](https://github.com/rafaelmat0s/TripleTen-11-projeto_integrado2)) | Python, Estatística | Estudo de funil de conversão e testes A/A/B para tomada de decisão de design |
+| Projeto Final – Análise Completa de Dados | [Sprint 14]([link_do_repo](https://github.com/rafaelmat0s/tripleten-14-projeto_final)) | Python, Pandas, Estatística | Projeto end-to-end com análise exploratória, testes de hipóteses e recomendações de negócio |
+
