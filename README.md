@@ -6,6 +6,12 @@ Sou um profissional em início de carreira na área de Análise de Dados, com in
 
 Atualmente, desenvolvo projetos práticos utilizando Python, SQL e ferramentas de visualização de dados, trabalhando com limpeza, análise e criação de relatórios. Busco oportunidades para evoluir como Analista de Dados Júnior e aplicar meus conhecimentos em ambientes reais.
 
+---
+
+I am an early-career professional in the field of Data Analysis, interested in transforming data into useful information for decision-making. I have an analytical profile, enjoy solving problems, and am constantly learning.
+
+Currently, I develop practical projects using Python, SQL, and data visualization tools, working on data cleaning, analysis, and report creation. I am seeking opportunities to grow as a Junior Data Analyst and apply my knowledge in real-world environments.
+
 ### 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelmat0s)
