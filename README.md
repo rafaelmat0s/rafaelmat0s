@@ -75,7 +75,6 @@ Currently, I develop practical projects using Python, SQL, and data visualizatio
 | Nome do Projeto | Link do Projeto | Linguagens | Observação |
 |-----------------|----------------|------------|------------|
 | Limpeza e Análise Exploratória de Dados – Instacart | [Ver repositório](https://github.com/rafaelmat0s/Limpeza-e-An-lise-Explorat-ria-de-Dados-Instacart) | Python, Pandas | Limpeza, tratamento de dados ausentes, duplicatas e análise exploratória de pedidos e comportamento de usuários |
-| Análise de Jogos – Mercado Global | [Ver repositório](https://github.com/rafaelmat0s/TripleTen-5-projeto_integrado1) | Python, Pandas | Análise de vendas globais por plataforma, região e gênero. Identificação de padrões de mercado |
 | Análise de Negócio – Marketing Digital | [Ver repositório](https://github.com/rafaelmat0s/TripleTen-8-projeto_Y.Afisha) | Python | Análise de funil, CAC, LTV e retorno sobre investimento em marketing |
 | Análise de Funil e Teste A/B – App de Alimentos | [Ver repositório](https://github.com/rafaelmat0s/TripleTen-11-projeto_integrado2) | Python, Estatística | Estudo de funil de conversão e testes A/A/B para tomada de decisão de design |
 | Projeto Final – Análise Completa de Dados | [Ver repositório](https://github.com/rafaelmat0s/tripleten-14-projeto_final) | Python, Pandas, Estatística | Projeto end-to-end com análise exploratória, testes de hipóteses e recomendações de negócio |
